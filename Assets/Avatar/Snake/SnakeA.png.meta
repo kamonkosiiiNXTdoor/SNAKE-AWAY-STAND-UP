@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: b436de448637f4a42ab93f57d12a83d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3109131174258428904
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_0
+  - first:
+      213: -1966291234334024808
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_1
+  - first:
+      213: 5001451935804819737
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_2
+  - first:
+      213: -1385211097398318968
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_3
+  - first:
+      213: 4989441581304907869
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_4
+  - first:
+      213: 7254887913196683046
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_5
+  - first:
+      213: -3427891243766729867
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_6
+  - first:
+      213: -4934016568983167763
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_7
+  - first:
+      213: 8195004812047816576
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_8
+  - first:
+      213: 3870336254353226298
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_9
+  - first:
+      213: 189372270742036202
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_10
+  - first:
+      213: 9210018449000045534
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_11
+  - first:
+      213: 2099900581250591789
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_12
+  - first:
+      213: 8068748795219556642
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_13
+  - first:
+      213: -8621867339361103845
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_14
+  - first:
+      213: -8893973235834073060
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_15
+  - first:
+      213: 9208838616682131602
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_16
+  - first:
+      213: -8212234859356888950
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_17
+  - first:
+      213: -2433653835383784775
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_18
+  - first:
+      213: -5544322456884253944
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_19
+  - first:
+      213: 3630703794972696090
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_20
+  - first:
+      213: -5641414921510448762
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_21
+  - first:
+      213: 2533899223861665807
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_22
+  - first:
+      213: -2685905299452144903
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_23
+  - first:
+      213: -6111567291662405369
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_24
+  - first:
+      213: 2821616637449328037
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_25
+  - first:
+      213: -8849350971991989916
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_26
+  - first:
+      213: -8886138891295518514
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_27
+  - first:
+      213: 2422898896276726859
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_28
+  - first:
+      213: 3157042276318709498
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_29
+  - first:
+      213: -6150007819410424496
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_30
+  - first:
+      213: -5795863490887053615
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_31
+  - first:
+      213: -19726302482688053
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_32
+  - first:
+      213: -4430539774735936833
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_33
+  - first:
+      213: -184477946536034222
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_34
+  - first:
+      213: -7170081117495340714
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_35
+  - first:
+      213: 4734970571035115904
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_36
+  - first:
+      213: -3343958199914379912
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_37
+  - first:
+      213: 5202785107481467706
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_38
+  - first:
+      213: -6275394013395614302
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_39
+  - first:
+      213: 5524704218377411952
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_40
+  - first:
+      213: 4911940742447622931
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_41
+  - first:
+      213: 2110489009656694498
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_42
+  - first:
+      213: -5681541674379894080
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_43
+  - first:
+      213: -5721257053533311201
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_44
+  - first:
+      213: -8680620150681112092
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_45
+  - first:
+      213: -6135598986608206277
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_46
+  - first:
+      213: -5924497003847045694
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_47
+  - first:
+      213: -4372297773813671558
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_48
+  - first:
+      213: 3902118733086290984
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_49
+  - first:
+      213: 8442901780351655875
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_50
+  - first:
+      213: 8946405490134295419
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_51
+  - first:
+      213: 6477600865421421422
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_52
+  - first:
+      213: -6595764403046489036
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_53
+  - first:
+      213: 8738799256468361590
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_54
+  - first:
+      213: 4465981279808394915
+    second: ChatGPT Image Oct 1, 2026, 05_41_39 PM_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnakeA_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 444
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd053a6c87ddf74cac893862fd0b0d7
+      internalID: -839380738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeA_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 444
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ce119d9ad015a43abba475570f5fbc
+      internalID: -212603761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeA_2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 444
+        width: 506
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2128424a10aeb994b8ace27b451290c0
+      internalID: -635702336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeA_3
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 444
+        width: 480
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d5e3bc7673dd4f8d83cd7cb2c566a
+      internalID: -65752093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeA_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e9a36c0d9bfd4585f9997ba6f85f7
+      internalID: -944246089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeA_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 506
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df38e4f904cf98f4292b54aaf3301c4d
+      internalID: 1198500564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeA_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08777be84bc1926478f59557008e76c5
+      internalID: -741471161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnakeA_7
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 390
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226f8ec6e79d1724888c5e6865dc8fe1
+      internalID: 1339708186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7dfc80ba7ea838c4e98c0b2a32c702fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SnakeA_0: -839380738
+      SnakeA_1: -212603761
+      SnakeA_2: -635702336
+      SnakeA_3: -65752093
+      SnakeA_4: -944246089
+      SnakeA_5: 1198500564
+      SnakeA_6: -741471161
+      SnakeA_7: 1339708186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
